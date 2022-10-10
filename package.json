@@ -1,0 +1,22 @@
+{
+  "name": "priccehck-singlepageapp",
+  "version": "1.0.0",
+  "description": "Single page application for price check",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mb1297/pricecheck-singlepageapp.git"
+  },
+  "author": "Marc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mb1297/pricecheck-singlepageapp/issues"
+  },
+  "homepage": "https://github.com/mb1297/pricecheck-singlepageapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
